@@ -1,0 +1,31 @@
+Insights
+
+Análise por categoria:
+
+A categoria "Móveis" é a que gera maior faturamento (113 Mil), acompanhado de Esportes (94 Mil) onde ambos chegam a (207 Mil), passando de 62% do faturamento. Com isso podem ser considerados os principais "responsáveis" por manter um alto faturamento. E o motivo de “Móveis” liderar é pelo fato de que possui um alto Ticket Médio (772,61) e um valor total de vendas bem significativo (146), o mesmo vale para “Esportes”, com Ticket Médio de (583,13) e Valor total de vendas igual a (162). Com isso podemos dizer que o principal fator para predominância de “Móveis” foi a junção  do alto ticket médio com o total de vendas.
+
+Análise por produto:
+
+Bicicleta Aro 29 sozinha responde por (76 Mil) dos (331,66 Mil) totais, quase 23% do faturamento vem de 1 produto entre 22. 
+
+Análise Região/Estado: 
+
+A Região Sudeste tem maior destaque com faturamento igual a (94 Mil) em seguida vem Sul com (88 Mil). Os dois predominam por terem combinação de alto volume de vendas com Ticket médio acima de (560). A região Sul se mostra com faturamento e volume total de vendas inferior a região Sudeste, porém apresenta um ticket médio de (616,43) maior que o de Sudeste (565,82), evidenciando o Ticket Médio como fator crucial para impulsionar o alto faturamento. E o estado com maior faturamento é o de Minas Gerais com (41,46 Mil) logo em seguida aparece Goiás com (35,35 Mil), pois ambos apresentam maiores tickets médios, com (702,75) e (620,15) respectivamente. Com isso, é possível dizer que Minas Gerais é o Estado que “puxa” a região Sudeste no faturamento, além de que outros estados como São Paulo e Rio de Janeiro contribuem de maneira positiva para um bom volume de vendas, com ênfase em São Paulo possuindo um total de (70), e a Região Sul também se mantém alta pelo fato de que todos os estados dessa região apresentam um Ticket Médio significativo. 
+
+
+Análise por vendedor:
+
+
+O vendedor Fernando foi o que teve maior destaque pois dentre os vendedores ele apresentou o maior faturamento (82,51 Mil) e maior volume de vendas (141), e um forte indício para essa predominância foi que o produto Notebook faturou (29 Mil) maior valor de faturamento de um produto entre todos os vendedores.
+
+
+Análise por Data:
+
+
+O gráfico de linha mostra picos isolados e abruptos (ex: por volta de maio) sem um padrão sazonal claro de tendência de crescimento, isso em si é uma conclusão: não há sazonalidade forte, picos parecem pontuais (datas específicas de alto volume, possivelmente promoções ou grandes pedidos isolados). 
+
+
+Análise por forma de pagamento:
+
+
+Predominância no pagamento por Cartão de Dédito com faturamento de (84 Mil) acompanhado de Boleto com (81 Mil).
